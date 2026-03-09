@@ -1,143 +1,111 @@
-# 🚀 Sulaiman Ahmad
+# 👋 Hi, I'm Sulaiman Ahmad
 
-### Software Engineer | Laravel & API Specialist | AI & Automation Builder
+💻 **Software Engineer | Laravel & API Specialist | AI & Automation Builder**
 
-Product-focused Software Engineer passionate about building scalable web and mobile applications, AI-powered systems, fintech solutions, and automation-driven platforms.
-
-I specialize in turning complex ideas into real, production-ready software — from backend architecture to full application deployment.
+I build scalable **web & mobile applications**, AI-powered systems, fintech platforms, and automation-driven solutions. I enjoy transforming complex ideas into **real-world production software**.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Eng. Automotive Engineering (In View) – Ahmadu Bello University, Zaria
-- 💡 Focused on SaaS, AI, Fintech & Agritech systems
-- 🛠 Experienced in building full-stack web & mobile applications
-- 🔄 Automation enthusiast (n8n workflows & system optimization)
-- ☁️ Cloud-ready (AWS & Azure)
-- 🌍 Passionate about building solutions for emerging markets
+- 🎓 **B.Eng. Automotive Engineering (In View)** — Ahmadu Bello University, Zaria  
+- 🛠 Focused on **SaaS, AI, Fintech & Agritech platforms**  
+- 🔄 Automation enthusiast (n8n workflows & system integrations)  
+- ☁️ Experience with **cloud deployment (AWS & Azure)**  
+- 🌍 Building technology for **emerging markets**
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
-### 💻 Programming Languages
-- PHP
-- JavaScript
-- TypeScript
-- Python
-- C++
-- Dart
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-- Laravel
-- React
-- Next.js
-- React Native
-- Flutter
+### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🔌 Backend & Services
-- REST API Development
-- Authentication & Authorization
-- Real-time Messaging Systems
-- Firebase
-- Supabase
-- Convex
-
-### ☁️ Cloud & DevOps
-- AWS
-- Microsoft Azure
-
-### 🤖 AI & Automation
-- AI API Integrations
-- Chatbot Systems
+### Backend & Tools
+- REST API Development  
+- Authentication Systems  
+- Real-time Messaging  
+- Firebase / Supabase  
 - Workflow Automation (n8n)
 
-### 🎨 Design & Product Tools
-- Figma
-- Canva
-- Photoshop
-- Lovable
+### Cloud
+AWS • Microsoft Azure
 
 ---
 
 ## 🏗 Featured Projects
 
-### 🌾 Farmers Network – Multi-Functional Super App
-A large-scale platform designed for farmers including:
-- Real-time chat (WhatsApp-like functionality)
-- Learning Management System
-- E-commerce marketplace
-- AI chatbot assistance
-- Wallet & transaction system
+### 🌾 Farmers Network – Super App
+Multi-functional platform for farmers including chat, LMS, marketplace, AI assistant, and wallet system.
 
-**Stack:** Laravel, React Native, APIs, Real-time Systems, Cloud, AI
+**Stack:** Laravel, React Native, APIs, Cloud, AI
 
 ---
 
-### 🛒 AI-Powered Classified Ads & E-Commerce Platform
-- Smart listing system enhanced with AI features
-- Scalable backend architecture
-- User management & moderation system
+### 🛒 AI-Powered Classifieds & Marketplace
+Scalable listing and marketplace platform enhanced with AI features.
 
-**Stack:** Laravel, React/Next.js, AI APIs
+**Stack:** Laravel, Next.js, AI APIs
 
 ---
 
-### 💳 Automated VTU Web & Mobile App
-- Digital service platform for SMEs
-- Airtime & data transactions
-- Secure automation workflows
+### 💳 Automated VTU Platform
+Digital service platform for airtime & data transactions with automation workflows.
 
 **Stack:** Laravel, APIs, Web & Mobile
 
 ---
 
-### 🏢 Real Estate CRM System
-- Property & client management system
-- Admin dashboards & reporting tools
+### 🏢 Real Estate CRM
+Property and client management system with admin dashboards and reporting tools.
 
 **Stack:** Laravel, MySQL
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-- Software Development – Tech4Dev (Digital Skills for All)
-- PHP Development – Udemy
-- JavaScript Development – Udemy
-- Laravel – Coursera
-- Mastering Laravel – Board Infinity
+![Sulaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samboy2025&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samboy2025&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 Current Focus
+## 📜 Certifications
 
-- Scalable SaaS product architecture
-- AI-powered application systems
-- Fintech & Agritech innovation
-- Automation-driven backend workflows
-- Cloud-native development
+- Tech4Dev — Software Development  
+- Laravel — Coursera  
+- Mastering Laravel — Board Infinity  
+- PHP & JavaScript — Udemy  
 
 ---
 
 ## 🤝 Open To
 
-- Remote Software Engineering Roles
-- Freelance & Contract Projects
-- Startup Collaborations
-- Open-source Contributions
+- Remote Software Engineering Roles  
+- Freelance & Contract Projects  
+- Startup Collaborations  
+- Open-source contributions
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Samboy2022
-- X (Twitter): https://x.com/sulaymernahmerd
-- Email: sulaimanahmadmuazu@gmail.com 
+🐙 GitHub: https://github.com/Samboy2022 
+🐦 X (Twitter): https://x.com/sulaymernahmerd  
+📧 Email: sulaimanahmadmuazu@gmail.com  
 
 ---
 
-## 📈 Vision
-
-Building impactful software products that solve real-world problems while continuously expanding expertise in AI, cloud systems, and scalable backend architecture.
+⭐ *Always building, learning, and shipping impactful software.*
