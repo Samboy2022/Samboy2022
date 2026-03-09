@@ -132,7 +132,7 @@ A large-scale platform designed for farmers including:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Samboy2025
+- GitHub: https://github.com/Samboy2022
 - X (Twitter): https://x.com/sulaymernahmerd
 - Email: sulaimanahmadmuazu@gmail.com 
 
